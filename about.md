@@ -4,27 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is a blog about my experiences learning to code in the hopes of someday becoming a frontend developer. It is full of ups and downs, and possibly even some lefts and rights. So buckle in and watch my journey unfold.
+  
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Thomas Hils and I work for [Action Verb](www.actionverb.com) where I do sales and support for [BrickFTP](www.brickftp.com) and [Vae platform](www.vaeplatform.com). You can find me on [Twitter](www.twitter.com/tjhils).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I've worked with computers in some capacity since college and I'm looking to make a pivot from support into web development. I'm currently participating in a frontend development apprenticeship through [Bloc.io](www.bloc.io) and this blog will be both a longform review of the apprenticeship as well as a journal of my evolution as a developer. Hopefully it'll be useful both for those looking to learn to code and those specically interested in starting an apprenticeship with Bloc.
