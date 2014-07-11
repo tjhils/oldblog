@@ -5,7 +5,7 @@ title: Better Late Than Never
 
 4 years ago as an IT support intern at a small pharmaceutical company I decided that I was going to learn how to code. I sat down and made a spreadsheet of the most popular programming languages and the best online free courses for each one. Every day I would sit down at my computer with a fresh cup of coffee and pluck away at a few more exercises and try to learn just a little bit more.
 
-4 years and as many half-completed courses later, I still didn't know how to code. Instead of being a bright-eyed, pimply-faced-youth at a small company I'm working in a fast paced startup surrounded by some of the brightest people I've ever met. Each of them has more programming talent in their little toes than I have in my whole body and its sparked in me a renewed comittment to learning to code.
+4 years and as many half-completed courses later, I still didn't know how to code. No longer a bright-eyed, pimply-faced-youth at a small company I've been transplated into a fast-paced startup surrounded by some of the brightest people I've ever met. Each of them has more programming talent in their little toes than I have in my whole body and its sparked in me a renewed comittment to learning to code.
 
 This time I around I decided that I was willing to invest whatever it takes in learning a new skill and that has meant making learning to code a high priority in my life. Its also meant being honest with myself and my learning style. With that in mind I sought out a course with a strong teacher to help steer me and help make up for any shortcomings in my own discipline.
 
