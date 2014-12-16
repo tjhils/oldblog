@@ -133,13 +133,16 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    text-align: center;
+    max-width: 38rem;
+    margin-left: auto ;
+    margin-right: auto ;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    text-align: center;
+    margin-left: auto ;
+    margin-right: auto ;
   }
 }
 
