@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Trust in Remote Teams
 ---
 
-Working remotely adds an entirely new kind of challenge to already complicated workplace relationships. Human relationships hinge in part on trust and trust can be difficult to establish in a digital relationship. How much you can you really learn about someone you’ve never met? How well you can really know someone through digital connections? Can you trust someone you’ve never met face to face? Can you rely on someone you’ve only seen once?
+Working remotely adds an entirely new kind of challenge to already complicated workplace relationships. Human relationships hinge in part on trust and trust can be difficult to establish in a digital relationship. How much you can you really learn about someone you’ve never met? Can you rely on someone you’ve only seen once?
 
 Working in a remote team forces you to take a leap of faith beyond a traditional office  relationship. At the end of the day there are a shadowy cabal of people you must rely on to help build a product, sign your checks and keep you employed.
 
