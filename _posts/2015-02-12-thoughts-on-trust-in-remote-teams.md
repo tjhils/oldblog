@@ -23,9 +23,10 @@ Its arguable that Zapier is at a sweet spot in size - big enough to build a comm
 
 ### Trust is the Most Valuable Currency
 
-Building structures that encourage and grow trust networks is a critical part of remote working. It starts at hiring, where you select for candidates you can rely on. It’s grown by communication that’s friendly and transparent but maintaining those relationships must be an active goal that is sometimes best serviced by simply being together.
+Building structures that encourage and grow trust networks is a critical part of remote working. It starts at hiring, where you select for candidates you can rely on. It’s grown by communication that’s friendly and transparent. Maintaining those relationships must be an active goal that is sometimes best serviced by just simply being together.
 
-Working remotely is a way to build teams that aren't restricted by the arbitrary limitations of geography, teams that are able to offer a more balanced work-life experience.  It isn't however without challenges. But they are challenges that should be met face on. To deny that is to fail to rise to the occasion in a time where fully remote operations are just taking off. I firmly believe the future of knowledge workers is remote and that it is a social responsibility to excel at building the structure that will support future teams and finding ways to strengthen trust within a team is a huge part of that.
+Working remotely is a way to build teams that aren't restricted by the arbitrary limitations of geography, teams that are able to offer a more balanced work-life experience.  It isn't however without challenges. But they are challenges that should be met face on. To deny that is to fail to rise to the occasion in a time where fully remote operations are just taking off. I firmly believe the future of knowledge workers is remote and that it is a social responsibility to excel at building the structure that will support future teams. Finding ways to strengthen trust within a team is a huge part of that and one that we're only just beginning to understand.
+
 
 
 
