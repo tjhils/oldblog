@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>tjhils</title>
+ <link href="http://tjhils.github.io/atom.xml" rel="self"/>
+ <link href="http://tjhils.github.io/"/>
+ <updated>2014-12-27T21:54:28-05:00</updated>
+ <id>http://tjhils.github.io</id>
+ <author>
+   <name>Thomas J. Hils</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>On The Value of a Mentor</title>
+   <link href="http://tjhils.github.io/2014/08/13/the-value-of-a-mentor/"/>
+   <updated>2014-08-13T00:00:00-04:00</updated>
+   <id>http://tjhils.github.io/2014/08/13/the-value-of-a-mentor</id>
+   <content type="html">&lt;p&gt;Bloc bills itself as an apprenticeship. They match you with an experienced developer in your chosen field whose job it is to help guide you through the pre-defined course work and eventually through building your own capstone project. While you could quibble over what the strict definition of an apprenticeship is it does get at the heart of how Bloc intends to teach you.&lt;/p&gt;
+
+&lt;p&gt;Your 1-on-1 time with your mentor is the crux of your learning. While the early foundational coursework provides you with tests to check your work later challenges require you to simply follow along and importantly, ask questions of your mentor. &lt;/p&gt;
+
+&lt;p&gt;Many of the challenges are unforgiving. If you don&amp;#39;t understand something the onus is on you to find out. Bloc makes it easy to contact a mentor outside of your scheduled 1-on-1 meetings. You can directly message them or should you need a more immediate response enter their &amp;quot;office hours&amp;quot; chat room staffed by mentors at various points throughout the day.&lt;/p&gt;
+
+&lt;p&gt;I picked Bloc because of this emphasis on the mentor relationship but what does that really mean? In the past an apprenticeship was a two-way relationship. Before automatic hammers blacksmiths relied on their apprentices to swing sledges as strikers and in exchange for this low-level labor the master smith taught the apprentice the skills of a trade. &lt;/p&gt;
+
+&lt;p&gt;A master had a real ownership of their apprentices and were defacto masters as well as teachers. Modern apprenticeships mercifully veer from this aspect but they can still be a strong relationship. My experience with my mentor &lt;a href=&quot;https://github.com/philspitler&quot;&gt;Phil&lt;/a&gt; has been overwhelmingly positive.&lt;/p&gt;
+
+&lt;p&gt;His genuine interest in my learning experience and his exuberance to share what he knows has been a significant force in motivating me to go the extra mile in my work. The value of having someone with real world experience to filter all of the information you&amp;#39;re presented with when learning a to code is difficult to overstate.&lt;/p&gt;
+
+&lt;p&gt;It has been an enjoyable experience to hop on and work through a problem together in my code. Phil has often used examples from his own projects to show me a real world application of concepts I&amp;#39;m struggling to learn. &lt;/p&gt;
+
+&lt;p&gt;Being able to see a practical application of difficult to understand concepts in programming has been one of the most important aspects of learning with Bloc. In my previous coding endeavors I&amp;#39;ve come away with a theoretical understanding of what I&amp;#39;m doing but none of the tools to apply it to a real life exercise. I believe that&amp;#39;s the crux of the power of an apprenticeship and something that Bloc leverages to its student&amp;#39;s advantage.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Better Late Than Never</title>
+   <link href="http://tjhils.github.io/2014/07/10/better-late-than-never/"/>
+   <updated>2014-07-10T00:00:00-04:00</updated>
+   <id>http://tjhils.github.io/2014/07/10/better-late-than-never</id>
+   <content type="html">&lt;p&gt;4 years ago as an IT support intern at a small pharmaceutical company I decided that I was going to learn how to code. I sat down and made a spreadsheet of the most popular programming languages and the best online free courses for each one. Every day I would sit down at my computer with a fresh cup of coffee and pluck away at a few more exercises and try to learn just a little bit more.&lt;/p&gt;
+
+&lt;p&gt;4 years and as many half-completed courses later, I still didn&amp;#39;t know how to code. No longer a bright-eyed, pimply-faced-youth at a small company I&amp;#39;ve been transplated into a fast-paced startup surrounded by some of the brightest people I&amp;#39;ve ever met. Each of them has more programming talent in their little toes than I have in my whole body and its sparked in me a renewed comittment to learning to code.&lt;/p&gt;
+
+&lt;p&gt;This time I around I decided that I was willing to invest whatever it takes in learning a new skill and that has meant making learning to code a high priority in my life. Its also meant being honest with myself and my learning style. With that in mind I sought out a course with a strong teacher to help steer me and help make up for any shortcomings in my own discipline.&lt;/p&gt;
+
+&lt;p&gt;After a lengthy search I settled on &lt;a href=&quot;http://bloc.io&quot;&gt;Bloc&amp;#39;s&lt;/a&gt; frontend web development apprenticeship.&lt;/p&gt;
+
+&lt;p&gt;I was impressed with the amount of time set aside for 1-on-1 interaction with your mentor, something I feel is pivotal to my ability to learn, and their rigorous curriculum that reflected the real life tools a developer needs to function. I&amp;#39;ve been working on this course for almost two weeks and already I feel like I&amp;#39;ve learned more than I had in my self-study.&lt;/p&gt;
+
+&lt;p&gt;So far I&amp;#39;m squashed the basics of JavaScript, learned to conquer Git and even deployed a small site to Heroku. While I&amp;#39;ve often felt frustrated with some of the exercises its taught me to seek out answers aggressively and to put together solutions with all the tools available to me. I&amp;#39;ve still got 16 weeks ahead of me and a lot to learn but I hope to keep this blog updated with my progress and, hopefully, projects!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
