@@ -435,14 +435,3 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
-
-/* Search box styling */
-
-#search-container {
-  position: absolute;
-  top: 0%;
-  right: 1%;
-  border: 0 !important;
-  border-width:0px;
-  -webkit-appearance: none
-}
