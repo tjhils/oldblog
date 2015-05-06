@@ -7,7 +7,7 @@ Working remotely adds an entirely new kind of challenge to already complicated w
 
 Working in a remote team forces you to take a leap of faith beyond a traditional office  relationship. At the end of the day there are a shadowy cabal of people you must rely on to help build a product, sign your checks and keep you employed.
 
-To overcome this trust gap at Zapier we try a few different things to build trust systems into digital relationships. First, we have fun. Fun builds feelings of mutual camaraderie in a team. Our Slack channel and Async - our internal communication tool - all lean towards laid back. You can drop a funny GIF into chat, you can make jokes to blow off steam and you’re encouraged to just communicate with your coworkers.
+To overcome this gap at Zapier we try a few different things to build trust systems into digital relationships. First, we have fun. Fun builds feelings of mutual camaraderie in a team. Our Slack channel and Async - our internal communication tool - all lean towards laid back. You can drop a funny GIF into chat, you can make jokes to blow off steam and you’re encouraged to just communicate with your coworkers.
 
 We default to transparency, meaning that our communication channels are open - visible as often as possible to everyone. No one is left out of the loop, no one is punished for not being “there” at the right time in asynchronous communication. When your team spans so many timezones you simply can’t afford to place emphasis on “when.”
 

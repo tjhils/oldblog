@@ -33,7 +33,7 @@
 
 
 html {
-  font-family: 'Vollkorn', serif;
+  font-family: 'Lora', serif;
 }
 @media (min-width: 48em) {
   html {
@@ -47,8 +47,9 @@ html {
 }
 
 .masthead-title {
-  text-align: center;
-  font-family: 'Josefin Slab';
+  font-family: 'Open Sans', sans-serif;
+} a:hover {
+    text-decoration: none;
 }
 
 
