@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            tjhils
-tagline:          'words.md'
+title:            words.md
+tagline:          'automating myself out of a job'
 description:      ''
 url:              http://tjhils.github.io
 baseurl:          /
 
 author:
-  name:           'Thomas J. Hils'
+  name:           'Thomas Hils'
   url:            https://twitter.com/tjhils
 
 paginate:         5

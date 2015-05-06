@@ -33,7 +33,7 @@
 
 
 html {
-  font-family: 'Old Standard TT', serif;
+  font-family: 'Vollkorn', serif;
 }
 @media (min-width: 48em) {
   html {
@@ -48,6 +48,7 @@ html {
 
 .masthead-title {
   text-align: center;
+  font-family: 'Josefin Slab';
 }
 
 
