@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>words.md</title>
- <link href="http://tjhils.github.io/atom.xml" rel="self"/>
- <link href="http://tjhils.github.io/"/>
- <updated>2015-05-06T14:40:04-04:00</updated>
- <id>http://tjhils.github.io</id>
+ <link href="http://thomas.hils.us/atom.xml" rel="self"/>
+ <link href="http://thomas.hils.us/"/>
+ <updated>2015-05-07T11:55:46-04:00</updated>
+ <id>http://thomas.hils.us</id>
  <author>
    <name>Thomas Hils</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Thoughts on Trust in Remote Teams</title>
-   <link href="http://tjhils.github.io/2015/02/12/thoughts-on-trust-in-remote-teams/"/>
+   <link href="http://thomas.hils.us/2015/02/12/thoughts-on-trust-in-remote-teams/"/>
    <updated>2015-02-12T00:00:00-05:00</updated>
-   <id>http://tjhils.github.io/2015/02/12/thoughts-on-trust-in-remote-teams</id>
+   <id>http://thomas.hils.us/2015/02/12/thoughts-on-trust-in-remote-teams</id>
    <content type="html">&lt;p&gt;Working remotely adds an entirely new kind of challenge to already complicated workplace relationships. Human relationships hinge in part on trust and trust can be difficult to establish digitally. How much you can you really learn about someone you’ve never met? Can you rely on someone you’ve only seen once?&lt;/p&gt;
 
 &lt;p&gt;Working in a remote team forces you to take a leap of faith beyond a traditional office  relationship. At the end of the day there are a shadowy cabal of people you must rely on to help build a product, sign your checks and keep you employed.&lt;/p&gt;
@@ -45,9 +45,9 @@
  
  <entry>
    <title>On The Value of a Mentor</title>
-   <link href="http://tjhils.github.io/2014/08/13/the-value-of-a-mentor/"/>
+   <link href="http://thomas.hils.us/2014/08/13/the-value-of-a-mentor/"/>
    <updated>2014-08-13T00:00:00-04:00</updated>
-   <id>http://tjhils.github.io/2014/08/13/the-value-of-a-mentor</id>
+   <id>http://thomas.hils.us/2014/08/13/the-value-of-a-mentor</id>
    <content type="html">&lt;p&gt;Bloc bills itself as an apprenticeship. They match you with an experienced developer in your chosen field whose job it is to help guide you through the pre-defined course work and eventually through building your own capstone project. While you could quibble over what the strict definition of an apprenticeship is it does get at the heart of how Bloc intends to teach you.&lt;/p&gt;
 
 &lt;p&gt;Your 1-on-1 time with your mentor is the crux of your learning. While the early foundational coursework provides you with tests to check your work later challenges require you to simply follow along and importantly, ask questions of your mentor. &lt;/p&gt;
@@ -68,9 +68,9 @@
  
  <entry>
    <title>Better Late Than Never</title>
-   <link href="http://tjhils.github.io/2014/07/10/better-late-than-never/"/>
+   <link href="http://thomas.hils.us/2014/07/10/better-late-than-never/"/>
    <updated>2014-07-10T00:00:00-04:00</updated>
-   <id>http://tjhils.github.io/2014/07/10/better-late-than-never</id>
+   <id>http://thomas.hils.us/2014/07/10/better-late-than-never</id>
    <content type="html">&lt;p&gt;4 years ago as an IT support intern at a small pharmaceutical company I decided that I was going to learn how to code. I sat down and made a spreadsheet of the most popular programming languages and the best online free courses for each one. Every day I would sit down at my computer with a fresh cup of coffee and pluck away at a few more exercises and try to learn just a little bit more.&lt;/p&gt;
 
 &lt;p&gt;4 years and as many half-completed courses later, I still didn&amp;#39;t know how to code. No longer a bright-eyed, pimply-faced-youth at a small company I&amp;#39;ve been transplated into a fast-paced startup surrounded by some of the brightest people I&amp;#39;ve ever met. Each of them has more programming talent in their little toes than I have in my whole body and its sparked in me a renewed comittment to learning to code.&lt;/p&gt;
