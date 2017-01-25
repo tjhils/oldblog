@@ -33,7 +33,7 @@
 
 
 html {
-  font-family: 'Merriweather', serif;
+  font-family: 'Cardo', serif;
 }
 @media (min-width: 48em) {
   html {
@@ -47,7 +47,7 @@ html {
 }
 
 .masthead-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cardo', sans-serif;
 } a:hover {
     text-decoration: none;
 }
@@ -86,7 +86,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Cardo", serif;
   font-size: 3.25rem;
 }
 

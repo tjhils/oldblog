@@ -1,21 +1,22 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+gems: 			  [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
-title:            words.md
-tagline:          ''
-description:      ''
-url:              http://thomas.hils.us
+title:            i made the things
+tagline:          
+description:      
+url:              http://things.imade.today
 baseurl:          /
 
 author:
-  name:           'Thomas Hils'
-  url:            https://twitter.com/tjhils
+  name:           'Zap Zaplar'
+  url:            https://twitter.com/zapiertest
 
 paginate:         5
 
@@ -29,3 +30,5 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+
+exclude: [s3_website.yml]
